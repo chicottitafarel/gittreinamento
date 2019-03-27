@@ -1,5 +1,5 @@
 # gittreinamento
-Básico do projeto
+Basico do projeto
 
 
-primeira altera??o do arquivo
+primeira alteracao do arquivo
